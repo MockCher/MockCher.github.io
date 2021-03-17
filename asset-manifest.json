@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mockcher.github.io/static/css/main.dd288640.chunk.css",
+    "main.js": "/mockcher.github.io/static/js/main.604d98bc.chunk.js",
+    "main.js.map": "/mockcher.github.io/static/js/main.604d98bc.chunk.js.map",
+    "runtime-main.js": "/mockcher.github.io/static/js/runtime-main.2ec87008.js",
+    "runtime-main.js.map": "/mockcher.github.io/static/js/runtime-main.2ec87008.js.map",
+    "static/js/2.3908df0c.chunk.js": "/mockcher.github.io/static/js/2.3908df0c.chunk.js",
+    "static/js/2.3908df0c.chunk.js.map": "/mockcher.github.io/static/js/2.3908df0c.chunk.js.map",
+    "static/js/3.352c81f6.chunk.js": "/mockcher.github.io/static/js/3.352c81f6.chunk.js",
+    "static/js/3.352c81f6.chunk.js.map": "/mockcher.github.io/static/js/3.352c81f6.chunk.js.map",
+    "index.html": "/mockcher.github.io/index.html",
+    "static/css/main.dd288640.chunk.css.map": "/mockcher.github.io/static/css/main.dd288640.chunk.css.map",
+    "static/js/2.3908df0c.chunk.js.LICENSE.txt": "/mockcher.github.io/static/js/2.3908df0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ec87008.js",
+    "static/js/2.3908df0c.chunk.js",
+    "static/css/main.dd288640.chunk.css",
+    "static/js/main.604d98bc.chunk.js"
+  ]
+}
